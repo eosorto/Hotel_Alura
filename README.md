@@ -27,7 +27,6 @@
 🔹 Imagenes
 ## 📝 Eclipse
 
-### ¿Cómo importar mi proyecto a Eclipse?
 ![num1_REC](https://github.com/eosorto/Hotel_Alura/assets/104921951/fa07f4a0-8be8-47f7-8266-081227adc162)
 
 ## Database mysql
@@ -63,7 +62,6 @@ FOREIGN KEY (id_reserva) REFERENCES reservas(id)</br>
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/169529338-09a4d4c2-1b5a-41dc-b305-38498ebc29a8.png">
 </p>
 
-### ¿Cómo hago la entrega final de mi Proyecto?
 
 
 🧡 <strong>Oracle</strong></br>
